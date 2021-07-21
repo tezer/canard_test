@@ -25,6 +25,7 @@ lightning_logs/
 .idea/
 pip-wheel-metadata/
 share/python-wheels/
+canard_test.git/
 *.egg-info/
 .installed.cfg
 *.egg
